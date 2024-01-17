@@ -1,4 +1,4 @@
-#importance of Encoding Numerical data
+# importance of Encoding Numerical data
 
 --> Whenever we are working on the datasets we have large values like 1212122 so these values doesent give any proper understanding , so in such cases we use the techniques called "Encoding Numerical Data"
 
