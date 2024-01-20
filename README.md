@@ -98,6 +98,6 @@
 
 --> After that calculating each and every cluster mean and moving the cluster based on the Mean Value.
 
---> After that repeating the distance from Centrod to data point
+--> After that repeating the distance from Centroid to data point
 
 --> The process will be continued untill the previous step and current step has no difference.
