@@ -8,7 +8,7 @@
 
  **Types of Techniques of Encoding Numerical data**
 
- --> We have to techniques to converts numerical data to categorical data
+ --> We have two techniques to converts numerical data to categorical data
 
                           1) Discretization(Binning)
 
