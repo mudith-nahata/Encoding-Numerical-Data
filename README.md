@@ -4,7 +4,7 @@
 
 **Encoding Numerical data**
 
- --> Enocding Numerical data is a process of converting Numerical data to Categorical data.
+ --> Encoding Numerical data is a process of converting Numerical data to Categorical data.
 
  **Types of Techniques of Encoding Numerical data**
 
